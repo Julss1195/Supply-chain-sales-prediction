@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+tensorflow
+keras
+xgboost
+lightgbm
+catboost
+statsmodels
+nltk
+xgboost 
+joblib
+fastapi
+unicorn
